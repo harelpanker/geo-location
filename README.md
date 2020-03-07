@@ -1,3 +1,6 @@
+Vue project that include: Registration, geo-location, live-chat (firebase).
+live-site: https://geo-location-harel.firebaseapp.com/
+
 # geo-location
 
 > A Vue.js project
